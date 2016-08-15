@@ -1,0 +1,47 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>Player.qml</file>
+        <file>js/report.js</file>
+        <file>contents/Clock22x22.png</file>
+        <file>contents/naxplayerico.ico</file>
+        <file>contents/load-icon.png</file>
+        <file>contents/minimize.png</file>
+        <file>contents/move-icon.png</file>
+        <file>contents/close-icon.png</file>
+        <file>contents/background.png</file>
+        <file>contents/Bouton gauche.png</file>
+        <file>contents/btncenter.png</file>
+        <file>contents/btncenterdown.png</file>
+        <file>contents/btncenterup.png</file>
+        <file>contents/btndowndown.png</file>
+        <file>contents/btndownup.png</file>
+        <file>contents/btnleftdown.png</file>
+        <file>contents/btnleftup.png</file>
+        <file>contents/btnrightdown.png</file>
+        <file>contents/btnrightup.png</file>
+        <file>contents/btnup.png</file>
+        <file>contents/btnupdown.png</file>
+        <file>contents/btnupup.png</file>
+        <file>contents/info-mail.png</file>
+        <file>contents/lblcenterup.png</file>
+        <file>contents/lbldownup.png</file>
+        <file>contents/lblleftdown.png</file>
+        <file>contents/lblleftup.png</file>
+        <file>contents/lblpausedown.png</file>
+        <file>contents/lblpauseup.png</file>
+        <file>contents/lblplaydown.png</file>
+        <file>contents/lblplayup.png</file>
+        <file>contents/lblrightup.png</file>
+        <file>contents/lblupup.png</file>
+        <file>contents/rotor.png</file>
+        <file>contents/support.png</file>
+        <file>items/progressbar.qml</file>
+        <file>contents/clockend.png</file>
+        <file>contents/clockstart.png</file>
+        <file>contents/repas.png</file>
+        <file>contents/cafe.png</file>
+        <file>contents/cafedown.png</file>
+        <file>contents/repasdown.png</file>
+    </qresource>
+</RCC>
